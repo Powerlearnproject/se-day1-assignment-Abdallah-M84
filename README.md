@@ -6,8 +6,13 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is basically defined as the application of scientific knowledge, skills, experience and principles to resolve problems and optimize solution by creating, designing, testing,implementing and documenting software.  In simple terms, it is the application of scientific methods to come up with or generate a software for a particular purpose.
+
+A well developed software is reliable and qualitative. A fit for purpose software provide efficiency and enhances industrial development process through automation, improved productivity, cost effectiveness, timeliness, better management practices. The advent of software engineering has also brought about scalability which in turn, enables faster time-to-market, increases reliability, improves user experience, innovation,business growth through competitive advantage and reduced cost. it also enhances collaboration amongst stakeholders in the industry.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
+Notably, software engineering gained fame during the period of the initial space exploration in the 50s and 60s then  structured programming and modular design became a centeral focus in the 70s. Software development tools were later developed in the 80s with the introduction of the object orientated 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
