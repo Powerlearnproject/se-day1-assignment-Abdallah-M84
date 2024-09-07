@@ -17,6 +17,18 @@ Notably, software engineering gained fame during the period of the initial space
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The phases of Software Development Life Cycle are :
+
+1. Documentation of Development Process.
+2. Determining phase entry and exit criteria.
+3. Feasibility study.
+4. Requirements analysis and specification.
+5. Design. 
+6. Coding and unit testing (implementation).
+7. Integration and system testing (testing).
+8. Maintenance.
+9. Phase containment of errors.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
