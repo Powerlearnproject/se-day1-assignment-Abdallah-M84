@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15791754&assignment_repo_type=AssignmentRepo)
+0[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15791754&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -6,12 +6,18 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is basically defined as the application of scientific knowledge, skills experience and principles to resolve problems and optimize  by creating, testing and implementing software.  In other words, it is the application of scientific methods to come up with or generate a software for a particular purpose.
+
+A well developed software is reliable and qualitative. A fit for purpose software provide efficiency and enhances industrial development process through automation, improved productivity, cost effectiveness, timeliness, better management practices. The advent of software engineering has also brought about scalability which in turn, enables faster time-to-market, increases reliability, improves user experience, innovation, brings about business growth through competitive advantage and reduced cost. it also enhances collaboration amongst stakeholders in the industry.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Notably, software engineering gained fame during the period of the initial space exploration in the 50s and 60s then  structured programming and modular design became a centeral focus in the 70s. Software development tools were later developed in the 80s with the introduction of the object orientated 
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
-The phases of Software Development Life Cycle are :
+
+The phases of Software Development Life Cycle are:
 1. Documentation of Development Process 
 2. Determining phase entry and exit criteria
 3. Feasibility study
@@ -21,7 +27,7 @@ The phases of Software Development Life Cycle are :
 7. Integration and system testing (testing)
 8. Maintenance
 9. Phase containment of errors
-
+    
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
