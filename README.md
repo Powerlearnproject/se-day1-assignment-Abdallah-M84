@@ -94,11 +94,11 @@ It harps on collaboration, customer involvement and rapid delivery.
 Comparison:
 
 Criterion                                      Waterfall vs. Agile
-1. Approach: Linear     Iterative  2. Flexibility:Low       High
-3.  involvement:Limited Continuous
-4. Documentation:crucial   Minimal
-5. Riskmanagement:Predictv Adaptive
-6. Time-to-market: Longer  shorter Application scenario for: 
+1. Approach: Linear|     Iterative  2. Flexibility:Low |      High
+3.  involvement:Limited| Continuous
+4. Documentation:crucial|   Minimal
+5. Riskmanagement:Predictv|Adaptive
+6. Time-to-market:Longer|  shorter Application scenario for: 
 A.  waterfall methodology
 whereby
 * a well defined and stable requirements. 
