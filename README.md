@@ -353,53 +353,69 @@ ii. Detecting System-Level Issues.
 iii.Reduces System-Level Errors.
 
 3. System Testing
-System testing is the process of testing the entire application as a whole, ensuring that the system works as expected when all components are integrated. This involves testing the software from end to end, including user interfaces, databases, network communications, and external integrations.
+System testing is the process of testing the entire application as a whole, ensuring that the system works as expected when all components are integrated. This involves testing the software from end to end, including user interfaces, databases, network communications, and external integrations. It is to ensure that the complete system meets the specified requirements and functions properly in a production-like environment. This test is performed by a QA team or independent testers. Tools like Selenium (for web UI testing), JMeter (for load testing), or Appium (for mobile app testing) are used.
 
-Purpose: To verify that the complete system meets the specified requirements and functions properly in a production-like environment.
+The benefits include:
 
-Who performs it: Typically performed by a QA team or independent testers.
+i. End-to-End Verification
 
-Tools: Selenium (for web UI testing), JMeter (for load testing), or Appium (for mobile app testing).
+ii. Production-Like Conditions.
 
-
-Importance:
-
-End-to-End Verification: System testing provides confidence that the entire system functions as intended, covering all interactions between components.
-
-Production-Like Conditions: It helps simulate real-world conditions and use cases, ensuring that the software behaves correctly in the final environment.
-
-Validation of Functional and Non-Functional Requirements: It not only checks functional requirements (like feature behavior) but also non-functional requirements such as performance, scalability, and security.
-
-
-
----
+iii. Validation of Functional and Non-Functional Requirements.
 
 4. Acceptance Testing
-
-Definition: Acceptance testing verifies that the software meets the business requirements and is ready for delivery to the end users. It is often conducted by the client or end users to validate whether the software meets their needs.
-
-Types:
+Acceptance testing verifies that the software meets the business requirements and is ready for delivery to the end users. It is often conducted by the client or end users to validate whether the software meets their needs.
 
 User Acceptance Testing (UAT): Ensures the system meets the end-users' expectations.
 
-Alpha and Beta Testing: Alpha testing is done by internal staff at the developer’s site, while beta testing is performed by real users in a production-like environment.
+Alpha and Beta Testing: Alpha testing is done by internal staff at the developer’s site, while beta testing is performed by real users in a production-like environment. It can be manual or automated using tools like Cucumber (for behavior-driven testing).
+It has the following importance:
 
+i. Meeting Business Requirements.
 
-Who performs it: Performed by the client, end users, or stakeholders.
+ii. Client Satisfaction.
 
-Tools: Can be manual or automated using tools like Cucumber (for behavior-driven testing).
-
-
-Importance:
-
-Meeting Business Requirements: Acceptance testing ensures that the software meets the agreed-upon specifications and business objectives.
-
-Client Satisfaction: It is a final check before the software goes live, ensuring that the product is acceptable from the client’s perspective.
-
-Reducing Rework: By confirming that the system meets the users’ needs before full deployment, acceptance testing helps reduce the chances of costly rework after launch.
+iii. Reducing Rework.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering refers to the process of designing and optimizing the inputs (or prompts) given to AI models, particularly language models like GPT, Copilot, Gemini AI, Meta AI to elicit the most accurate, relevant, and helpful responses. Since AI models rely on natural language processing to interpret and respond to prompts, how questions or tasks are framed directly impacts the quality of the output.
+
+Key Aspects of Prompt Engineering:
+
+1. Clarity
+
+2. Contex
+
+3. Examples
+
+4. Iteration
+
+Importance of Prompt Engineering:
+
+1. Improving Model Accuracy.
+
+2. Efficiency
+
+3. Customization
+
+4. Control over Output
+
+5. Maximizing Model Capabilities
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Example of a Vague Prompt is
+"Tell me about technology."
+
+Improved Prompt could look something like this;
+
+"Describe the impact of artificial intelligence (AI) on the job market, focusing on both positive and negative effects. Include examples of industries that have been significantly affected by AI advancements."
+
+Why the Improved Prompt is More Effective:
+
+1. Clarity.
+2. Specificity
+3. Conciseness
